@@ -5,12 +5,18 @@
 
 - 🌱 I’m currently learning **React,Node js**
 
-- 👨‍💻 All of my projects are available at [http://gouravportfolio.lovestoblog.com/](http://gouravportfolio.lovestoblog.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/Gourav7568](https://github.com/Gourav7568)
 
-- 📫 How to reach me **gauravshar091@gmail.com**
+- 📫 How to reach me **http://gouravportfolio.lovestoblog.com/**
+
+- 📄 Know about my experiences [http://gouravportfolio.lovestoblog.com/](http://gouravportfolio.lovestoblog.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gourav-sharma-131a82277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-sharma-131a82277" height="30" width="40" /></a>
+<a href="https://fb.com/gourav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourav sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/sharma.gaurav321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma.gaurav321" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coder_75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
